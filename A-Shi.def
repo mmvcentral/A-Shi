@@ -1,0 +1,38 @@
+[Info]
+name    ="A-Shi"
+displayname ="A-Shi"
+update = "A-Shi"
+versiondate =02,03,2005   
+mugenversion =1.0
+author ="mast-chen"
+pal.defaults =1,2,3,4,5,6,7,8,9,10,11,12
+[Files]
+cmd      =command.cmd  
+cns      =A-Shi_Normal_Special.cns
+st       =A-Shi_Normal_Special.cns  
+st1      =A-Shi_Super.cns
+st2      =A-Shi_common-2.cns
+st3	 =hit.cns
+st4	 =common-3.cns
+st5      =power_full_max.cns      
+stcommon =common1.cns
+sprite   =A-Shi.sff       
+anim     =A-Shi.air       
+sound    =A-Shi.snd       
+pal1=A-Shi4.act
+pal2=A-Shi2.act
+pal3=A-Shi12.act
+pal4=A-Shi1.act
+pal5=A-Shi5.act
+pal6=A-Shi6.act
+pal7=A-Shi7.act
+pal8=A-Shi8.act
+pal9=A-Shi9.act
+pal10=A-Shi10.act
+pal11=A-Shi11.act
+pal12=A-Shi3.act
+
+Arcade mode
+[Arcade]
+intro.storyboard  =stroy.def
+ending.storyboard =ending.def
